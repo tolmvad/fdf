@@ -3,15 +3,17 @@
 The purpose of this project is to create a simplified graphic 3D Wireframe Viewer.
 __(macOS is only supported)__<br>
 You can read task: [`fdf.subject.pdf`](subject/fdf.subject.pdf)
+
 ![z rotate](img/z_rotate.gif)
 ### Discription of mandatory part
-For this work, we need use graphic library: `miniLibX`.
+For this project, we need use graphic library: `miniLibX`.
 More info about you can read [here](https://harm-smits.github.io/42docs/libs/minilibx/getting_started.html)
 ![iso projection](img/iso.png)
-To begin fdf has to show the map using isometric projection.
+To begin `fdf` has to show the map using isometric projection.
 How draw a lines, only your choice. I use [Bresenham's line algorithm](https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm), but for more beautiful result i recomend use [Xiaolin Wu's line algorithm](https://en.wikipedia.org/wiki/Xiaolin_Wu%27s_line_algorithm).
+Needed handle the events pressing the red button and pressing ESC button to close window.
 ### Discription of bonus part
-In bonus part you need realised all axis rotating, zoom and extra projection.
+In bonus part you need realised all axis rotating, axis move, zoom and extra projection.
 ##### X Axis rotating
 ![x rotate](img/x_rotate.gif)
 ##### Y Axis rotating
