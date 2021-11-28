@@ -1,0 +1,6 @@
+.gitignore
+*.o
+fdf
+test*
+*.out
+.vscode
