@@ -1,8 +1,7 @@
 ![eng](img/eng.png) [![ru](img/ru.png)](README.ru.md)
 # `fdf`
 The purpose of this project is to create a simplified graphic 3D Wireframe Viewer.
-__(macOS is only supported)__<br>
-You can read task: [`fdf.subject.pdf`](subject/fdf.subject.pdf)
+__(macOS is only supported)__
 
 ![z rotate](img/z_rotate.gif)
 ### Discription of mandatory part
